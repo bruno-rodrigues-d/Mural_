@@ -1,8 +1,5 @@
-Simple Notes App
+Mural - Leucotron Telecom
 
-Source code till 10 parts of tutorials.
+Documentação do projeto Mural
 
-Note: The Firebase Service Json is deleted, so you have to your own json in app dir.
-
-Watch playlist:
-https://www.youtube.com/playlist?list=PLgqXWQqMyp4-NdaZDXCz7tVpN2LeqhV2G
+Desenvolvido por: Bruno Rodrigues
